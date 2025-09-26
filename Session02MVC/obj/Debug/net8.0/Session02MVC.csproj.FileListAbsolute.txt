@@ -227,3 +227,4 @@ E:\Route (FullStack .Net)\MVC Coding Session\Session02MVCSolution\Session02MVC\o
 E:\Route (FullStack .Net)\MVC Coding Session\Session02MVCSolution\Session02MVC\obj\Debug\net8.0\Session0.BB683A83.Up2Date
 E:\Route (FullStack .Net)\MVC Coding Session\Session02MVCSolution\Session02MVC\obj\Debug\net8.0\Session02MVC.RazorAssemblyInfo.cache
 E:\Route (FullStack .Net)\MVC Coding Session\Session02MVCSolution\Session02MVC\obj\Debug\net8.0\Session02MVC.RazorAssemblyInfo.cs
+E:\Route (FullStack .Net)\MVC Coding Session\Session02MVCSolution\Session02MVC\obj\Debug\net8.0\Session02MVC.sourcelink.json
